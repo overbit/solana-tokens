@@ -1,0 +1,17 @@
+{
+    "name": "Alpha GBP",
+    "symbol": "A-GBP",
+    "description": "The stablecoin for the real Alpha man",
+    "image": "",
+    "animation_url": "",
+    "external_url": "https://google.io",
+    "attributes": [
+      {
+        "trait_type": "components",
+        "value": "gold: 10; carbon: 1;"
+      }
+    ],
+    "properties":{
+
+    }
+  }
