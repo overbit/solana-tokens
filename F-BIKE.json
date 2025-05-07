@@ -15,8 +15,11 @@
         "files": [
           {
             "uri": "https://www.youtube.com/shorts/6QYnlR3WyTY",
-            "type": "video/mp4",
-            "cdn": true
+            "type": "video/mp4"
+          },
+          {
+            "uri": "https://www.honda.co.uk/content/dam/central/motorcycles/adventure/africa-twin-2024/Overview/gallery/honda-africa-twin-gallery-1-desktop.jpg/_jcr_content/renditions/fb.jpg",
+            "type": "image/png"
           }
         ],
         "category": "video"
