@@ -9,7 +9,7 @@
         {
           "trait_type": "Sector", 
           "value": "Motor"
-        }, 
+        }
     ],
     "properties":{
         "files": [
@@ -19,6 +19,6 @@
             "cdn": true
           }
         ],
-        "category": "video",
+        "category": "video"
     }    
   }
