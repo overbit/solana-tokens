@@ -6,7 +6,19 @@
     "animation_url": "",
     "external_url": "https://as2.ftcdn.net/v2/jpg/00/89/07/63/1000_F_89076312_sbxXwcGITdbVARuWd4PNsyMVvtBazKYi.jpg",
     "attributes": [
+        {
+          "trait_type": "Sector", 
+          "value": "Motor"
+        }, 
     ],
     "properties":{
-    }
+        "files": [
+          {
+            "uri": "https://www.youtube.com/shorts/6QYnlR3WyTY",
+            "type": "video/mp4",
+            "cdn": true
+          }
+        ],
+        "category": "video",
+    }    
   }
